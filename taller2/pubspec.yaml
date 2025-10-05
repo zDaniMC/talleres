@@ -1,0 +1,43 @@
+
+---
+
+##  Tecnologías Usadas
+
+- **Flutter 3.9+**
+- **Dart (Isolates y Futures)**
+- **Material Design Dark Theme**
+
+---
+
+##  Evidencias (para el PDF)
+
+1. Captura del **Future** mostrando “Cargando…” y luego el resultado.  
+2. Captura del **Timer** ejecutándose y al finalizar.  
+3. Captura del **Isolate** con resultado en pantalla y consola mostrando mensajes.
+
+>  Recuerda: la primera página del PDF debe incluir la URL del repositorio.
+
+---
+
+##  Explicación Técnica
+
+| Recurso | Uso recomendado |
+|----------|----------------|
+| **Future / async / await** | Cuando esperas resultados asíncronos sin bloquear la interfaz. |
+| **Timer** | Para tareas que deben ejecutarse tras un tiempo definido o repetidamente. |
+| **Isolate** | Para cálculos pesados o procesamiento que pueda congelar la UI si se ejecuta directamente. |
+
+---
+
+##  Autor
+
+**José Daniel**  
+ *[tu correo opcional aquí]*  
+ GitHub: [JDMendoza12](https://github.com/JDMendoza12)
+
+---
+
+##  Licencia
+
+Proyecto académico para demostración de tareas en segundo plano con Flutter.  
+Libre para uso educativo.
