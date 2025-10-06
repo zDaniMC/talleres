@@ -1,22 +1,24 @@
-name: taller_riovas
-description: "App Flutter para José Daniel Riovas"
+name: taller_segundo_plano_jose_daniel
+description: "Proyecto Flutter para demostrar asincronía, Timer e Isolates."
 publish_to: 'none'
 
 version: 1.0.0+1
 
 environment:
-  sdk: ^3.9.2
+ sdk: ^3.9.2
 
 dependencies:
-  flutter:
-    sdk: flutter
-  go_router: ^14.2.0
+ flutter:
+  sdk: flutter
+
+ cupertino_icons: ^1.0.8
+ provider: ^6.1.2
+ async: ^2.11.0
 
 dev_dependencies:
-  flutter_test:
-    sdk: flutter
-  flutter_lints: ^5.0.0
+ flutter_test:
+  sdk: flutter
+ flutter_lints: ^5.0.0
+
 flutter:
-  uses-material-design: true
-  assets:
-    - assets/jose.png
+ uses-material-design: true

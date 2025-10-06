@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "jojeproyecto" "\0"
+            VALUE "FileDescription", "taller_segundo_plano_jose_daniel" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "jojeproyecto" "\0"
+            VALUE "InternalName", "taller_segundo_plano_jose_daniel" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2025 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "jojeproyecto.exe" "\0"
-            VALUE "ProductName", "jojeproyecto" "\0"
+            VALUE "OriginalFilename", "taller_segundo_plano_jose_daniel.exe" "\0"
+            VALUE "ProductName", "taller_segundo_plano_jose_daniel" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END
