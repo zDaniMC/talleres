@@ -1,8 +1,5 @@
 import 'package:flutter/material.dart';
-import 'screens/home_screen.dart';
-import 'screens/detail_screen.dart';
-import 'screens/lifecycle_screen.dart';
-import 'screens/grid_tab_screen.dart';
+import 'routes/app_router.dart';
 
 void main() {
   runApp(const MyApp());
@@ -13,15 +10,11 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
+    return MaterialApp.router(
       debugShowCheckedModeBanner: false,
-      initialRoute: '/',
-      routes: {
-        '/': (c) => const HomeScreen(),
-        '/detalle': (c) => const DetailScreen(message: "JOSE DANIEL RIVAS"),
-        '/ciclo': (c) => const LifecycleScreen(),
-        '/grid': (c) => const GridTabScreen(),
-      },
+      title: 'Taller HTTP - Dog API',
+      routerConfig: appRouter,
+      theme: ThemeData(primarySwatch: Colors.blue),
     );
   }
 }
