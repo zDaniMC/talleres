@@ -1,0 +1,1 @@
+ C:\\Users\\joanr\\OneDrive\\Escritorio\\proyec\\talleres\\taller_firebase_universidades\\.dart_tool\\flutter_build\\9916036777b7b0a195fd390b4cacb29a\\native_assets.json: 

@@ -1,0 +1,2 @@
+C:/Users/joanr/OneDrive/Escritorio/proyec/talleres/taller_firebase_universidades/build/.cxx/debug/5v1l5t3u/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/joanr/OneDrive/Escritorio/proyec/talleres/taller_firebase_universidades/build/.cxx/debug/5v1l5t3u/arm64-v8a/CMakeFiles/rebuild_cache.dir
